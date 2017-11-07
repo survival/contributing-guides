@@ -22,3 +22,8 @@ Most of our projects are Ruby projects, and we embrace the Ruby mantra "*Matz is
 ## General contributing guidelines
 
 We have compiled a bunch of ideas that apply to most of our projects in our [contributing guide](https://github.com/survival/contributing-guides/contributing.md).
+
+
+## Beginner contributing guidelines
+
+We have made a [step-by-step guide for beginners](https://github.com/survival/contributing-guides/beginner-guides.md) that explains the process of forking a project on GitHub and contributing to it.
