@@ -53,7 +53,7 @@ further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at
-[webmaster@survivalinternational.org](mailto:webmaster@survivalinternational.org).
+[open-source@survivalinternational.org](mailto:open-source@survivalinternational.org).
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances. The project team
 is obligated to maintain confidentiality with regard to the reporter of an

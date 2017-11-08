@@ -37,7 +37,7 @@ This is a step-by-step guide that may help guide you on where to start if you wa
 
 * Install `bundler` if you haven't installed it for that version of Ruby (`gem install bundler`)
 
-* Follow the instructions in the README to set the project up, run the tests and the app, and check that everything works before starting your work. If you have any problems contact us: [webmaster@survivalinternational.org](mailto:webmaster@survivalinternational.org)
+* Follow the instructions in the README to set the project up, run the tests and the app, and check that everything works before starting your work. If you have any problems contact us: [open-source@survivalinternational.org](mailto:open-source@survivalinternational.org)
 
 
 ## Starting your contribution

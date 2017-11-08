@@ -45,4 +45,4 @@ Some other pull-request related points from there:
 ## Questions
 
 Please write to us at
-[webmaster@survivalinternational.org](mailto:webmaster@survivalinternational.org).
+[open-source@survivalinternational.org](mailto:open-source@survivalinternational.org).
