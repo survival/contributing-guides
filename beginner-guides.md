@@ -20,13 +20,13 @@ This is a step-by-step guide that may help guide you on where to start if you wa
 
 * When you find a project you want to contribute to, fork the repository by clicking the "Fork" button on the top right of the project's home page.
 
-![alt text][forkit]
+![How to fork the project](https://github.com/survival/contributing-guides/blob/master/images/forkit.png)
 
 * This will create a copy of our project in your GitHub account. This allows you to modify the project safely in your account and once you're happy with the changes you can submit it to us (see **Starting your contribution** below).
 
 * Now that you have a copy of our project in your GitHub account, you can clone it to your computer. If you are using the terminal, type `git clone PROJECT_URL_HERE`. You can find the project's URL to clone in your copy of the project, clicking the big green "clone or donwload" button to the right:
 
-![alt text][clone-url]
+![How to clone the project](https://github.com/survival/contributing-guides/blob/master/images/clone-url.png)
 
 * The final step is to add our project's url as a remote so that you can fetch changes from it often and keep your copy updated. The URL can be found in the same place where you found your copy's URL. If you are using the terminal, type `git remote add upstream PROJECT_URL_HERE`.
 
@@ -50,7 +50,7 @@ This is a step-by-step guide that may help guide you on where to start if you wa
 
 * If you go to your copy's page on GitHub now, you will see a banner informing you that you pushed a branch. You can submit a pull request directly from there, by clicking on the big green "Compare & pull request" button.
 
-![alt text][clone-url]
+![How to make a pull request](https://github.com/survival/contributing-guides/blob/master/images/clone-url.png)
 
 * Fill in the textbox with a description of what you have done and click "Create pull request". When you do this we will receive your changes and review them! Hopefully your pull request will be merged into our project, but if not, we will indicate the things you can improve.
 
@@ -58,8 +58,3 @@ This is a step-by-step guide that may help guide you on where to start if you wa
 ## Keeping your copy up to date
 
 Any time you want to keep your copy up to date with any new changes we have made in our project, you can checkout the master branch (if you are using the terminal, type `git checkout master`) and then pull any new changes (if you are using the terminal, type `git pull upstream master`).
-
-
-[forkit.png]: https://github.com/survival/contributing-guides/images/forkit.png "How to fork the project"
-[clone-url.png]: https://github.com/survival/contributing-guides/images/clone-url.png "How to clone the project"
-[pull-request.png]: https://github.com/survival/contributing-guides/images/pull-request.png "How to make a pull request"
