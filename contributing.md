@@ -7,14 +7,14 @@ However, we thought it would probably be helpful to write down some of the team'
 **We welcome "first pull requests" from beginners as well as from more experienced developers who want to volunteer on our projects**. We will add some issues from time to time to our repos and mark them with the labels `good-first-issue` or `volunteers`.
 
 
-### Coding standards
+## Coding standards
 
 The easiest way to get it right is to read the code that already exists and do things as you see they are done. Basically keep the code clean, readable, maintainable and easy to change in the future. Follow good practices, SOLID principles and design patterns. Do the simplest thing that could possibly work. Less code is often better than more code!
 
 We think that "*Readability is more important than cleverness.*". Whatever helps maintainability in the long term is very important to us.
 
 
-### Tests
+## Tests
 
 Tests not only help make sure that new changes don't break the existing code. More importantly; they help you have a well designed and structured codebase.
 
@@ -28,7 +28,7 @@ We use linters to automate syntax checks in all of our projects. It keeps the co
 For Ruby projects we use Rubocop, following [the official Ruby style guide](https://github.com/bbatsov/ruby-style-guide). For Javascript, we use ESLint. For Python, we use Flake8.
 
 
-### Git etiquette
+## Git etiquette
 
 We are fans of a clean git history. You can take a look at  [our git etiquette guide](https://github.com/octopusinvitro/zagakus/blob/master/git-etiquette.md).
 Some other pull-request related points from there:
