@@ -16,14 +16,14 @@ Our public open-source projects can be found at <https://github.com/survival>.
 
 ## Code of conduct
 
-Most of our projects are Ruby projects, and we embrace the Ruby mantra "*Matz is nice and so we are nice*". Help us keep this project open and inclusive. Please read and follow our [Code of Conduct](https://github.com/survival/contributing-guides/code-of-conduct.md).
+Most of our projects are Ruby projects, and we embrace the Ruby mantra "*Matz is nice and so we are nice*". Help us keep this project open and inclusive. Please read and follow our [Code of Conduct](code-of-conduct.md).
 
 
 ## General contributing guidelines
 
-We have compiled a bunch of ideas that apply to most of our projects in our [contributing guide](https://github.com/survival/contributing-guides/contributing.md).
+We have compiled a bunch of ideas that apply to most of our projects in our [contributing guide](contributing.md).
 
 
 ## Beginner contributing guidelines
 
-We have made a [step-by-step guide for beginners](https://github.com/survival/contributing-guides/beginner-guides.md) that explains the process of forking a project on GitHub and contributing to it.
+We have made a [step-by-step guide for beginners](beginner-guides.md) that explains the process of forking a project on GitHub and contributing to it.
